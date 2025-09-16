@@ -24,3 +24,8 @@ git clone https://github.com/your-username/PRODIGY_WD_Task01.git
 Author
 
 Shashank H.N.
+## Preview
+![Interactive Navigation Menu]
+<img width="1874" height="816" alt="Screenshot 2025-09-16 101113" src="https://github.com/user-attachments/assets/d365647a-1655-4db2-ac91-5f641c098d75" />
+
+
